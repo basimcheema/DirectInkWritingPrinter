@@ -2,5 +2,9 @@ This repository contains an adapted version of the Marlin 2.1.x bugfix firmware 
 
 The firmware has been modified for a BIGTREETECH Octopus Pro V1.1 with an STM32H723ZE MCU and 6 TMC2208 Stepper Motor Drivers. Three additional linear axes, (I, J, K), have been added to control two syringes and their plungers.
 
+Videos:
+https://youtu.be/2KWS4N8f2U4
+https://youtu.be/nruoanSTrQM
+
 Original Printess Repository: https://github.com/weiss-jonathan/Printess-Low-Cost-3D-Printer/tree/main
 Standard Marlin Firmware Repository: https://github.com/MarlinFirmware/Marlin
